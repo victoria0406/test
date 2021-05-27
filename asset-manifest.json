@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/victoria0406.github.io/test.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/victoria0406.github.io/test.git/static/js/main.17277ffd.chunk.js",
-    "main.js.map": "/victoria0406.github.io/test.git/static/js/main.17277ffd.chunk.js.map",
-    "runtime-main.js": "/victoria0406.github.io/test.git/static/js/runtime-main.ba22053e.js",
-    "runtime-main.js.map": "/victoria0406.github.io/test.git/static/js/runtime-main.ba22053e.js.map",
-    "static/js/2.ea6550d5.chunk.js": "/victoria0406.github.io/test.git/static/js/2.ea6550d5.chunk.js",
-    "static/js/2.ea6550d5.chunk.js.map": "/victoria0406.github.io/test.git/static/js/2.ea6550d5.chunk.js.map",
-    "static/js/3.1a242b1c.chunk.js": "/victoria0406.github.io/test.git/static/js/3.1a242b1c.chunk.js",
-    "static/js/3.1a242b1c.chunk.js.map": "/victoria0406.github.io/test.git/static/js/3.1a242b1c.chunk.js.map",
-    "index.html": "/victoria0406.github.io/test.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/victoria0406.github.io/test.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ea6550d5.chunk.js.LICENSE.txt": "/victoria0406.github.io/test.git/static/js/2.ea6550d5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/victoria0406.github.io/test.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/victoria0406.github.io/victoria0406.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/victoria0406.github.io/victoria0406.github.io/static/js/main.17277ffd.chunk.js",
+    "main.js.map": "/victoria0406.github.io/victoria0406.github.io/static/js/main.17277ffd.chunk.js.map",
+    "runtime-main.js": "/victoria0406.github.io/victoria0406.github.io/static/js/runtime-main.41882dcf.js",
+    "runtime-main.js.map": "/victoria0406.github.io/victoria0406.github.io/static/js/runtime-main.41882dcf.js.map",
+    "static/js/2.ea6550d5.chunk.js": "/victoria0406.github.io/victoria0406.github.io/static/js/2.ea6550d5.chunk.js",
+    "static/js/2.ea6550d5.chunk.js.map": "/victoria0406.github.io/victoria0406.github.io/static/js/2.ea6550d5.chunk.js.map",
+    "static/js/3.1a242b1c.chunk.js": "/victoria0406.github.io/victoria0406.github.io/static/js/3.1a242b1c.chunk.js",
+    "static/js/3.1a242b1c.chunk.js.map": "/victoria0406.github.io/victoria0406.github.io/static/js/3.1a242b1c.chunk.js.map",
+    "index.html": "/victoria0406.github.io/victoria0406.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/victoria0406.github.io/victoria0406.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ea6550d5.chunk.js.LICENSE.txt": "/victoria0406.github.io/victoria0406.github.io/static/js/2.ea6550d5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/victoria0406.github.io/victoria0406.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba22053e.js",
+    "static/js/runtime-main.41882dcf.js",
     "static/js/2.ea6550d5.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.17277ffd.chunk.js"
